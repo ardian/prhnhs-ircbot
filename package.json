@@ -1,0 +1,27 @@
+{
+  "name": "prnhs-ircbot",
+  "version": "1.0.0",
+  "description": "IRC bot to check if the hackerspace is open, uses prnhs API",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardian/prhnhs-ircbot.git"
+  },
+  "keywords": [
+    "irc",
+    "bot",
+    "hackerspace"
+  ],
+  "author": "Ardian Haxha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardian/prhnhs-ircbot/issues"
+  },
+  "homepage": "https://github.com/ardian/prhnhs-ircbot#readme",
+  "dependencies": {
+    "irc": "^0.5.0"
+  }
+}
